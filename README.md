@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Brian Mtswene 👋
 
-<!--
-**BrianngezmoeThe32/BrianngezmoeThe32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Information Technology student at the University of Johannesburg (UJ), passionate about Software & Web Development, and currently exploring Cloud Computing. As an aspiring Tech Innovator, I'm eager to collaborate on projects that leverage my skills and enthusiasm.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript, C#, Python
+
+
+
+## Interests
+
+- Software & Web Development
+- Cloud Computing
+- Technological Innovation
+
+## Collaboration
+
+I'm always open to collaborating on projects that align with my skills and interests. If you're looking for a dedicated and passionate developer, feel free to reach out!
+
+## Contact
+
+- [LinkedIn] https://www.linkedin.com/in/brian-mtsweni-a962172bb/
+-
