@@ -4,7 +4,7 @@ I'm a Business Information Technology student at the University of Johannesburg 
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, C#, Python
+- **Languages:** HTML, CSS, JavaScript, C#, Python,PHP ,ReactNative , Node JS ,SQL TypeScript
 
 
 
